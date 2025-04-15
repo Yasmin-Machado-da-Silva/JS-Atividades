@@ -42,7 +42,7 @@
 - Mercado que lista as frutas disponíveis no estoque.
 - Escola que registra as turmas disponíveis para o turno da manhã.
 - Professor que imprime as notas de um aluno (usando `forEach`).
-- - Sistema de controle de presença que lista os alunos presentes (usando `forEach`).
+- Sistema de controle de presença que lista os alunos presentes (usando `forEach`).
 
 ---
 
